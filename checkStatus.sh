@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script automatically retrieves the summary of the job from the pod that runs the workflow
+# This script automatically retrieves the summary of the job from the pod that runs the workflow
 set -e
 
 # Find the pod name starting with "fastqc" and using the same image
